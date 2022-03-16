@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitApp</string>
+    <string name="hint">Enter text here</string>
+</resources>
